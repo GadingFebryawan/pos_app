@@ -1,0 +1,17 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app-f795383a.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/chart-config.js": {
+    "file": "assets/chart-config-4a42a55d.js",
+    "isEntry": true,
+    "src": "resources/js/chart-config.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-296d3b42.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}

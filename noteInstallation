@@ -1,0 +1,9 @@
+1. composer install
+2. yarn install / npm install
+3. setting database env -> php artisan migrate
+4. make sure console tidak ada error ketika running
+5. install wkhtmltopdf -> set path di snappy.php
+
+error?
+export = composer require maatwebsite/excel --ignore-platform-reqs
+livewire = php artisan livewire:publish --assets
