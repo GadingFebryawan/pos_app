@@ -1,6 +1,6 @@
 services:
   web:
-    image: triangle-pos:latest
+    image: posapp:latest
     build:
       context: .
     env_file:
